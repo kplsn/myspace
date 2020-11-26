@@ -1,0 +1,27 @@
+<p class="social">
+  {{ with .Site.Params.social.linkedin }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.github }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  {{end}}
+   {{ with .Site.Params.social.dribbble }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-dribbble"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.medium }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-medium"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.spotify }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-spotify"></i>
+  </a>
+  {{end}}
+</p>
