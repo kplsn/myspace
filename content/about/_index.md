@@ -9,4 +9,4 @@ I find inspiration in Bauhaus and Danish design, the mediterranean coast, brutal
 
 In my free time you can find me painting, writing code, or wandering through a museum.
 
-[Résumé](https://drive.google.com/file/d/1b3EqJCgbWWR8SZLU6LhHXcAYqG7fqGza/view?usp=sharing)
+[Résumé](https://drive.google.com/file/d/1b3EqJCgbWWR8SZLU6LhHXcAYqG7fqGza/view?usp=sharing target=blank)
