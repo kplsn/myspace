@@ -382,7 +382,7 @@ SIDEBAR + RIGHT COLUMN
   color: #379392;
 }
 .content-column {
-  padding-top: 40px;
+  padding-top: 20px;
 }
 .content-column.white-background {
   background: #fff;
