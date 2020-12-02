@@ -10,20 +10,18 @@ weight = 5
 <!--more-->
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
+
 <body>
   <div id="all">
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-middle">
-              {{ partial "sidebar.html" . }}
-              {{ block "main" . }}
-              {{ end }}
+            
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+            <div class="elfsight-app-6dbde023-6127-4e6a-94b5-82df06dbf117"></div>
           </div>
       </div>
   </div>
-  {{ partial "scripts.html" . }}
+
 </body>
 </html>
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-6dbde023-6127-4e6a-94b5-82df06dbf117"></div>
