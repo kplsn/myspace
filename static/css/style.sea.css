@@ -393,14 +393,14 @@ SIDEBAR + RIGHT COLUMN
   overflow-y: hidden;
 }
 .content-column-content {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 40px;
+  padding-right: 30px;
   padding-bottom: 20px;
 }
 @media (min-width: 1200px) {
   .content-column-content {
     padding-left: 20px;
-    padding-right: 40px;
+    padding-right: 20px;
   }
 }
 .content-column-content p.lead {
@@ -2111,9 +2111,3 @@ a.list-group-item.active > .badge,
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
-}
-@media (min-width: 1200px)
-. {
-    padding-left: 40px;
-    padding-right: 0px;
-}
