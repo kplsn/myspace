@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "/portfolio/images/tom.png"
 date = "2020-11-05T18:25:22+05:30"
