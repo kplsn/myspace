@@ -3,7 +3,7 @@ draft = false
 image = "/portfolio/images/wof.png"
 showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
-title = "Wall of Fame"
+title = ""
 weight = 4
 +++
 
