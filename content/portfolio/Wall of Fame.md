@@ -15,7 +15,7 @@ This page will live in Confluence and should highlight specific customer comment
 
 As Confluence poses limitations, this page is a static image that will be routinely updated by the Support Team Leads. As our Support Team Leads do not currently have design experience, I was empowered to offer 1:1 mini Figma lessons so that they can feel confident in maintaining this page on their own.
 
-Adding a photo icon for each user was a simple way to personalize the feedback
+Adding a photo icon for each user was a simple way to personalize the feedback.
 
 
 ![Wall of Fame](/portfolio/images/V2.png)
