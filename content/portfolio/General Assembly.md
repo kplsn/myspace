@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "General Assembly"
 draft = false
-weight = 7
+weight = 6
 +++
 
 My experience studying UX Design in a pandemic.
