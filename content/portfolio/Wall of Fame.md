@@ -9,6 +9,8 @@ weight = 4
 
 <!--more-->
 
+## Wall of Fame
+
 I was tasked with creating a Wall of Fame for our VP and Leadership team. 
 
 This page will live in Confluence and should highlight specific customer comments left in regards to their support experience. I sourced these comments from our NPS scores and CSAT surveys using Looker.
