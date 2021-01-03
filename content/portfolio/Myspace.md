@@ -10,7 +10,7 @@ weight = 4
 A vintage Myspace twist on a traditional job application.
 <!--more-->
 ---
-In 2020 I was applying for an internal role and needed a way to showcase my work. I was already very familiar with everyone on the team well and thought they would also find this retro throwback to be fun.
+In 2020 I was applying for an internal role and needed a way to showcase my work. I was already very familiar with everyone on the team and thought they would also find this retro throwback to be fun.
 
 I created this static Myspace page (era 2004) using Hugo, CSS and HTML and hosted it on DigitalOcean's AppPlatform. This was a fun project because it allowed the team to learn more about me, as well as highlight some of the internal projects I had recently worked on.
 
