@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 1
 +++
 
-Bringing our Support Ticketing System into the Cloud.
+Bringing our Help Desk into the Cloud.
 <!--more-->
 ---
 ![Case Study](/portfolio/images/DigitalOceanCS.png)
