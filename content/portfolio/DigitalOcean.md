@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "DigitalOcean"
+title = "DigitalOcean: Case Study"
 draft = false
 image = "/portfolio/images/Frame 461.png"
 showonlyimage = false
