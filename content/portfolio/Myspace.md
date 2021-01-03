@@ -4,7 +4,7 @@ draft = false
 image = "/portfolio/images/tom1.png"
 date = "2020-11-05T18:25:22+05:30"
 title = "Myspace"
-weight = 0
+weight = 3
 +++
 
 A vintage Myspace twist on a traditional job application.
