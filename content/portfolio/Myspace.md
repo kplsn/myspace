@@ -10,11 +10,11 @@ weight = 3
 A vintage Myspace twist on a traditional job application.
 <!--more-->
 ---
-I needed a job application for an internal role, but knew that I wanted something that would stand out.
+In 2020 I was applying for an internal role and needed a way to showcase my work. I was already very familiar with everyone on the team well and thought they would also find this retro throwback to be fun.
 
-I created this Myspace page (era 2004) using Hugo, CSS and HTML and hosted it on DigitalOcean's AppPlatform. This was a fun project because it allowed the team to learn more about me, as well as highlight some of the internal projects I had recently worked on.
+I created this static Myspace page (era 2004) using Hugo, CSS and HTML and hosted it on DigitalOcean's AppPlatform. This was a fun project because it allowed the team to learn more about me, as well as highlight some of the internal projects I had recently worked on.
 
-Writing the code brought back a ton of nostalgia; I even used popular Myspace Layout sites to add features such as glitter icons and the "online" status.
+This project really brought back memories! Some of the HTML snippets (such as the "online" status) were sourced from old Myspace Layout sites.
 
 ![myspace](/portfolio/images/myspaceapp.png)
 
