@@ -10,5 +10,4 @@ weight = 1
 Bringing our Help Desk into the Cloud.
 <!--more-->
 ---
-![Case Study](/portfolio/images/DigitalOceanCS.png)
-
+coming soon!

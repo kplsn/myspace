@@ -53,9 +53,7 @@ googleAnalytics = ""
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+   
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/kplsn/"
