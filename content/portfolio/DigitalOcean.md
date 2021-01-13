@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 1
 +++
 
-Bringing our Help Desk into the Cloud.
+Bringing our Support Ticketing System into the Cloud.
 <!--more-->
 ---
-coming soon!
+![CaseStudy](/portfolio/images/CaseStudy.png)
