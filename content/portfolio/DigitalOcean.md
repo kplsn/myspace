@@ -2,7 +2,7 @@
 date = "2016-11-04T19:41:01+05:30"
 title = "Case Study: DigitalOcean"
 draft = false
-image = "/portfolio/images/Frame 461.png"
+image = "/portfolio/images/favicon.png"
 showonlyimage = false
 weight = 1
 +++
